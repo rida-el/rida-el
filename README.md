@@ -14,5 +14,3 @@ I'm Rida el-mazary a Full Stack Web Developer. I Spend most of time coding outst
 - 📫 How to reach me : elmazary.rida@gmail.com. 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rida-el&show_icons=true&theme=radical)
