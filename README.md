@@ -8,13 +8,19 @@ I'm Rida el-mazary a Full Stack Web Developer. I Spend most of time coding outst
 
 
 
-- 👋 Hi, I’m @rida
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : elmazary.rida@gmail.com. 
 
-<!---
-rida-el/rida-el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Github Stats
+
+![Rida's github stats](https://github-readme-stats.vercel.app/api?username=rida-el&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
+
+
+[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
+[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
+[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
