@@ -13,4 +13,4 @@ I'm Rida el-mazary a Full Stack Web Developer. I Spend most of time coding outst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : elmazary.rida@gmail.com. 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rida-el&show_icons=true&locale=en&layout=compact" alt="rida-el" /></p>
