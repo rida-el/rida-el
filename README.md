@@ -8,9 +8,11 @@ My name Rida EL-MAZARY, I'm a front-end web developer, Currently working as a fr
 
 
 
-- 👀 I’m currently A Software Enginerring Student at 1337.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently A front-end web developer and Student at 1337.
+- 🌱 I’m currently learning Everything (; .
+- 💞️ I'm open to collaborating on interesting projects.
 - 📫 How to reach me : elmazary.rida@gmail.com. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rida-el&show_icons=true&locale=en&layout=compact" alt="rida-el" /></p>
+### My GitHub Stats
+
+<a href="http://www.github.com/rida-el"><img src="https://github-readme-stats.vercel.app/api?username=rida-el&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rida-el's GitHub stats" /></a>
