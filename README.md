@@ -1,6 +1,6 @@
 ## Hi I'm Rida
 
-I'm Rida el-mazary a Full Stack Web Developer. I Spend most of time coding outstanding projects.
+My name Rida EL-MAZARY, I'm a front-end web developer, Currently working as a freelancer, And i Spend most of time coding outstanding projects.
 
 :mailbox: Reach me out!
 
